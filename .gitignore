@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Specific CubeIDE files / directories to ignore
+.settings/
+*Debug.launch
